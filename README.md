@@ -1,4 +1,12 @@
-### Hi there 👋
+### Hi community 👋
+Gosto de aprender e resolver problemas. Os desafios me motivam, ao me deparar com estes me mantenho focada e em busca das melhores estratégias para as melhores soluções. 
+Desenvolvo soluções em código aberto para contribuir com o conhecimento da comunidade e colocar meu aprendizado em prática.
+
+## Trabalho 🔭 
+Minha trajetória profissional começou como Fonoaudióloga, atualmente estudo Sistemas para Internet no IFRS e trabalho como Desenvolvedora Web na 87labs.
+
+## Estudo 🌱
+Estudo linguagens de programação para desenvolvimento web, principalmente Rails, Java e ReactJs.  
 
 <!--
 **anakettl/anakettl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
