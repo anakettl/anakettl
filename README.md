@@ -3,7 +3,7 @@ Gosto de aprender e resolver problemas. Os desafios me motivam, ao me deparar co
 Desenvolvo soluções em código aberto para contribuir com o conhecimento da comunidade e colocar meu aprendizado em prática.
 
 ## Trabalho 🔭 
-Minha trajetória profissional começou como Fonoaudióloga, atualmente estudo Sistemas para Internet no IFRS e trabalho como Desenvolvedora Web na 87labs.
+Minha trajetória profissional começou como Fonoaudióloga, atualmente estudo Sistemas para Internet no IFRS e trabalho como Desenvolvedora Web na 87labs desde 2019.
 
 ## Estudo 🌱
 Estudo linguagens de programação para desenvolvimento web, principalmente Rails, Java e ReactJs.  
