@@ -1,12 +1,14 @@
 ### Hi community 👋
-Gosto de aprender e resolver problemas. Os desafios me motivam, ao me deparar com estes me mantenho focada e em busca das melhores estratégias para as melhores soluções. 
-Desenvolvo soluções em código aberto para contribuir com o conhecimento da comunidade e colocar meu aprendizado em prática.
+I enjoy learning and solving problems. 
+Challenges motivate me, and when faced with them I stay focused and look for the best strategies for the best solutions.
+I work remotely as a back-end developer, however I've also worked on projects as a full-stack developer and database analyst.
 
-## Trabalho 🔭 
-Minha trajetória profissional começou como Fonoaudióloga, atualmente estudo Sistemas para Internet no IFRS e trabalho como Desenvolvedora Web na 87labs desde 2019.
+## Career 🔭 
+My career as a software developer started 5 years ago when I changed my career path from Speech Pathologist to Software Developer I brought with me my communication skills team, focus, and problem-solving and this make all the difference in my path.
+I started doing a technician course where I learnt PHP and after I went to college, I learnt Java, but when I applied to my first internship, I had to study Ruby for a project. So I taught myself Ruby really fast because we had to deliver the project to the customer. So because of my performance, I was hired in 3 months and after I received several promotions and Ruby became my main language.
 
-## Estudo 🌱
-Estudo linguagens de programação para desenvolvimento web, principalmente Rails, Java e ReactJs.  
+## Study 🌱
+I love backend, so I'm always studying databases, rakes, queues, tenants, and docker. All the things that I know I will put in open repositories to share my knowledge with the community
 
 <!--
 **anakettl/anakettl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
